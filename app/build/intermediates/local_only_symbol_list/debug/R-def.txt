@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+array authors
+array images
+array titles
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable img_01
+drawable img_02
+drawable img_03
+drawable img_04
+drawable img_05
+drawable img_06
+drawable img_07
+drawable img_08
+drawable img_09
+drawable img_10
+id iv_image
+id lv_news_list
+id tv_subtitle
+id tv_title
+layout activity_main
+layout list_item
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Code06
+style Theme.Code06
+xml backup_rules
+xml data_extraction_rules
